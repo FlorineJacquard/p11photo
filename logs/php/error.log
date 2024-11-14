@@ -1,0 +1,387 @@
+[18-Sep-2024 11:19:01 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 3
+[18-Sep-2024 11:19:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[18-Sep-2024 11:19:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[18-Sep-2024 11:19:01 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 3
+[18-Sep-2024 17:04:18 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est <strong>obsolète</strong> depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/functions.php on line 6085
+[18-Sep-2024 17:04:18 UTC] PHP Deprecated:  La fonction the_block_template_skip_link est <strong>obsolète</strong> depuis la version 6.4.0 ! Utilisez wp_enqueue_block_template_skip_link() à la place. in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/functions.php on line 6085
+[24-Oct-2024 14:32:26 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:26 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:30 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:30 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:48 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:48 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[24-Oct-2024 14:32:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:20:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:05 UTC] PHP Warning:  Undefined variable $categories in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 39
+[26-Oct-2024 09:21:05 UTC] PHP Warning:  Undefined variable $formats in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 09:21:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 57
+[26-Oct-2024 10:34:40 UTC] PHP Parse error:  syntax error, unexpected token "," in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 13
+[26-Oct-2024 10:34:41 UTC] PHP Parse error:  syntax error, unexpected token "," in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 13
+[26-Oct-2024 13:49:26 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 86
+[26-Oct-2024 13:49:26 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/functions.php on line 86
+[27-Oct-2024 15:11:49 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[28-Oct-2024 15:21:52 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[28-Oct-2024 15:21:54 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[28-Oct-2024 16:30:48 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[28-Oct-2024 16:32:42 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[28-Oct-2024 21:43:54 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[29-Oct-2024 17:59:36 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[29-Oct-2024 17:59:47 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[29-Oct-2024 17:59:48 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[31-Oct-2024 17:15:36 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[31-Oct-2024 17:18:05 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[31-Oct-2024 17:20:01 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[01-Nov-2024 09:10:15 UTC] Erreur d’événement de déplanification de tâche pour le crochet smush_check_for_conflicts. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":false,"args":[]}
+[01-Nov-2024 18:15:17 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:17 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:32 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:32 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:44 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:44 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:15:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:26 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:55 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:55 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:56 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:56 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:16:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:10 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/florinej...')
+#3 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:14 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/admin.php(34): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/plugins.php(10): require_once('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:14 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:29 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/admin.php(34): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/index.php(10): require_once('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:29 UTC] PHP Warning:  require(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 18:17:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/version.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php:33
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#4 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php on line 33
+[01-Nov-2024 19:11:28 UTC] PHP Warning:  include_once(/Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/integrations/class-gutenberg.php on line 155
+[01-Nov-2024 19:11:28 UTC] PHP Warning:  include_once(): Failed opening '/Users/florinejacquard/Local Sites/p11photo/app/public/wp-admin/includes/plugin.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/integrations/class-gutenberg.php on line 155
+[01-Nov-2024 19:11:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Smush\Core\Integrations\is_plugin_active() in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/integrations/class-gutenberg.php:162
+Stack trace:
+#0 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/integrations/class-gutenberg.php(35): Smush\Core\Integrations\Gutenberg->check_for_gutenberg()
+#1 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/class-core.php(209): Smush\Core\Integrations\Gutenberg->__construct()
+#2 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/class-wp-hook.php(324): Smush\Core\Core->load_libs('')
+#3 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(Object(WP_Smush), Array)
+#4 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-settings.php(555): do_action('plugins_loaded')
+#6 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-config.php(86): require_once('/Users/florinej...')
+#7 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-load.php(50): require_once('/Users/florinej...')
+#8 /Users/florinejacquard/Local Sites/p11photo/app/public/wp-blog-header.php(13): require_once('/Users/florinej...')
+#9 /Users/florinejacquard/Local Sites/p11photo/app/public/index.php(17): require('/Users/florinej...')
+#10 {main}
+  thrown in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/plugins/wp-smushit/core/integrations/class-gutenberg.php on line 162
+[01-Nov-2024 19:32:53 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23
+[01-Nov-2024 19:32:58 UTC] PHP Warning:  Undefined variable $background_image_url in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/themes/P11_photos/index.php on line 23

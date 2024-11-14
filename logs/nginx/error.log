@@ -1,0 +1,1 @@
+2024/09/25 18:15:36 [error] 28922#0: *7927 directory index of "/Users/florinejacquard/Local Sites/p11photo/app/public/wp-content/cache/" is forbidden, client: ::1, server: , request: "GET /wp-content/cache/ HTTP/1.1", host: "localhost:10039"
